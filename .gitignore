@@ -1,0 +1,7 @@
+go-restful-crud-example
+log/
+archive/
+*.swp
+*.swo
+*.log
+.DS_Store/
